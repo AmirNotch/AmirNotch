@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @AmirNotch
+- 👋 Hi, I’m Amir 
+- _________________________________________________________________________________________________________
 - 👀 I’m interested in in programming, computer games, mathematics, scientist achievement, and movies
 - 🌱 I’m currently learning everything what interesting for me and can brings me something useful
 - 💞️ I’m looking to collaborate on ...
